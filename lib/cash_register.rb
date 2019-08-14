@@ -8,5 +8,9 @@ class CashRegister
     @items = []
   end
   
+  def add_item(title, price)
+    @total + 
+  end
+  
   
 end
